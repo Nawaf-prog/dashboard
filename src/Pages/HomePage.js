@@ -6,7 +6,7 @@ const HomePage = () => {
   return (
     <section
       dir="rtl"
-      className="grid h-svh grid-cols-[15rem_1fr] 2k:grid-cols-[19rem_1fr] fullhd:grid-cols-[19rem_1fr]"
+      className="grid h-svh grid-rows-[5rem_1fr]  grid-cols-[15rem_1fr] 2k:grid-cols-[19rem_1fr] fullhd:grid-cols-[19rem_1fr]"
     >
       <div className="bg-red-500">
         <Nav></Nav>
