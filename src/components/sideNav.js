@@ -39,7 +39,7 @@ const SideNav = () => {
   // Conditionally apply hover and text styles based on the current location
   const isActive = (path) => location.pathname === path;
   return (
-    <div className="top-0 right-0 w-60 h-full bg-white shadow-lg rounded-l-lg z-50 p-4 flex flex-col justify-between 2k:w-[19rem] 2k:text-[20px] fullhd:w-[19rem] fullhd:text-[20px]">
+    <div className="fixed top-0 right-0 w-60 h-full bg-white shadow-lg rounded-l-lg z-50 p-4 flex flex-col justify-between 2k:w-[19rem] 2k:text-[20px] fullhd:w-[19rem] fullhd:text-[20px]">
       <div>
         <div className="mb-10 mt-3">
           <img src={headerLogo} alt="Logo" className="mx-auto w-44 h-24" />
