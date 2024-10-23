@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dashboard/static/css/main.fbc9864c.css",
-    "main.js": "/dashboard/static/js/main.c23f3def.js",
+    "main.js": "/dashboard/static/js/main.7199e431.js",
     "static/js/453.8ab44547.chunk.js": "/dashboard/static/js/453.8ab44547.chunk.js",
     "static/media/blueBackground.svg": "/dashboard/static/media/blueBackground.dcc74c17dba7a034d717a4a0b94842ce.svg",
     "static/media/logo_Tatawei.svg": "/dashboard/static/media/logo_Tatawei.2e59bf1f26edc5858438993ca26ee7aa.svg",
@@ -19,11 +19,11 @@
     "static/media/icon_email.svg": "/dashboard/static/media/icon_email.e44ae65cf8e44c93519e92077113b0b5.svg",
     "static/media/icon_school.svg": "/dashboard/static/media/icon_school.1013e8b967edb5d8adfbc3a32d08a996.svg",
     "main.fbc9864c.css.map": "/dashboard/static/css/main.fbc9864c.css.map",
-    "main.c23f3def.js.map": "/dashboard/static/js/main.c23f3def.js.map",
+    "main.7199e431.js.map": "/dashboard/static/js/main.7199e431.js.map",
     "453.8ab44547.chunk.js.map": "/dashboard/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fbc9864c.css",
-    "static/js/main.c23f3def.js"
+    "static/js/main.7199e431.js"
   ]
 }
