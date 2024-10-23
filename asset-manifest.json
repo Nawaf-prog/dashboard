@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/dashboard/static/css/main.fbc9864c.css",
+    "main.js": "/dashboard/static/js/main.c23f3def.js",
+    "static/js/453.8ab44547.chunk.js": "/dashboard/static/js/453.8ab44547.chunk.js",
+    "static/media/blueBackground.svg": "/dashboard/static/media/blueBackground.dcc74c17dba7a034d717a4a0b94842ce.svg",
+    "static/media/logo_Tatawei.svg": "/dashboard/static/media/logo_Tatawei.2e59bf1f26edc5858438993ca26ee7aa.svg",
+    "static/media/icon_opp_card.svg": "/dashboard/static/media/icon_opp_card.126d73986dd7de3f029e12349bf5403f.svg",
+    "static/media/avatar_male.svg": "/dashboard/static/media/avatar_male.e29d3acd9c4fab5a24c82c60a2e0b9f0.svg",
+    "static/media/logo_school_text.svg": "/dashboard/static/media/logo_school_text.e7738a86840d0c72dce01bc03e8ca68e.svg",
+    "static/media/Exit.svg": "/dashboard/static/media/Exit.54418bcbbe9e4b38a921fb4d5f87ac2f.svg",
+    "static/media/icon_hours_card.svg": "/dashboard/static/media/icon_hours_card.e645b73327348edbc905457d4463d4d1.svg",
+    "static/media/icon_student_card.svg": "/dashboard/static/media/icon_student_card.7f7a56ccb86c8662ba2e483015b1269b.svg",
+    "index.html": "/dashboard/index.html",
+    "static/media/icon_lock.svg": "/dashboard/static/media/icon_lock.2b100ff296c746c23a82b8895969e760.svg",
+    "static/media/eye_opened.svg": "/dashboard/static/media/eye_opened.6e28439293e2e5e6c8fd7555090cfabf.svg",
+    "static/media/icon_bro.svg": "/dashboard/static/media/icon_bro.a9f6f2fcdc6902570f92bc5a448b1150.svg",
+    "static/media/eye_closed.svg": "/dashboard/static/media/eye_closed.b310c925c35b8d687bd50b80587e9ee7.svg",
+    "static/media/icon_email.svg": "/dashboard/static/media/icon_email.e44ae65cf8e44c93519e92077113b0b5.svg",
+    "static/media/icon_school.svg": "/dashboard/static/media/icon_school.1013e8b967edb5d8adfbc3a32d08a996.svg",
+    "main.fbc9864c.css.map": "/dashboard/static/css/main.fbc9864c.css.map",
+    "main.c23f3def.js.map": "/dashboard/static/js/main.c23f3def.js.map",
+    "453.8ab44547.chunk.js.map": "/dashboard/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbc9864c.css",
+    "static/js/main.c23f3def.js"
+  ]
+}
